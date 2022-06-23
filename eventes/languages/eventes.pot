@@ -1,0 +1,1967 @@
+# Copyright (C) 2019 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/inc\n"
+"POT-Creation-Date: 2019-10-18 10:24:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:24
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#: 404.php:27
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+
+#: 404.php:29
+msgid "Go to Home"
+msgstr ""
+
+#: comments.php:24
+#: template-parts/content.php:34
+#: template-parts/content-archeive.php:34
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:33
+#: template-parts/content-image.php:41
+#: template-parts/content-quote.php:15
+#. translators: 1: title.
+msgid "Comment"
+msgstr ""
+
+#: template-parts/content.php:32
+#: template-parts/content-archeive.php:34
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:32
+#: template-parts/content-image.php:41
+#: template-parts/content-quote.php:15
+#: template-parts/content-video.php:34
+#. translators: 1: title.
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/content.php:32
+#: template-parts/content-archeive.php:34
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:32
+#: template-parts/content-image.php:41
+#: template-parts/content-quote.php:15
+#: template-parts/content-video.php:34
+#. translators: 1: title.
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content.php:32
+#: template-parts/content-archeive.php:34
+#: template-parts/content-audio.php:30
+#: template-parts/content-gallery.php:32
+#: template-parts/content-image.php:41
+#: template-parts/content-quote.php:15
+#: template-parts/content-video.php:34
+#. translators: 1: title.
+msgid "% Comments"
+msgstr ""
+
+#: function.php:105
+msgid "Demo Import 1"
+msgstr ""
+
+
+#: template-parts/content-single.php:11
+msgid "Pages"
+msgstr ""
+
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/breadcrumbs/archive-index-breadcrumbs.php:24
+#: template-parts/breadcrumbs/content-single.php:24
+#: template-parts/breadcrumbs/page-single-breadcrumbs.php:21
+#: template-parts/breadcrumbs/search-breadcrumbs.php:20
+msgid "Home"
+msgstr ""
+
+#: template-parts/breadcrumbs/index-breadcrumbs.php:14
+msgid "Latest Posts"
+msgstr ""
+
+#: template-parts/breadcrumbs/content-single.php:13
+msgid "Blog Details"
+msgstr ""
+
+#: template-parts/content.php:32
+#: template-parts/content-archeive.php:33
+#: template-parts/content-audio.php:29
+#: template-parts/content-gallery.php:31
+#: template-parts/content-image.php:40
+#: template-parts/content-quote.php:14
+#: template-parts/post-preview.php:16
+msgid "By"
+msgstr ""
+
+#: template-parts/breadcrumbs/woocommerce.php:19
+msgid "Shop"
+msgstr ""
+
+
+#: admin/options-init.php:25 admin/options-init.php:28
+msgid "Theme Options"
+msgstr ""
+
+#: admin/options-init.php:83
+msgid "General Settings"
+msgstr ""
+
+#: admin/options-init.php:91 admin/options-init.php:269
+msgid "Logo Image"
+msgstr ""
+
+#: admin/options-init.php:93 admin/options-init.php:103
+#: admin/options-init.php:271
+msgid "Upload your image or remove image"
+msgstr ""
+
+#: admin/options-init.php:101
+msgid "Favicon Image"
+msgstr ""
+
+#: admin/options-init.php:117
+msgid "Header Right Menu"
+msgstr ""
+
+#: admin/options-init.php:124 admin/options-init.php:260
+#: admin/options-init.php:300 admin/options-init.php:344
+msgid "Switch"
+msgstr ""
+
+#: admin/options-init.php:126 admin/options-init.php:262
+#: admin/options-init.php:302 admin/options-init.php:346
+#: includes/integrations/elementor/widgets/woo-carousel.php:222
+msgid "Yes"
+msgstr ""
+
+#: admin/options-init.php:127 admin/options-init.php:263
+#: admin/options-init.php:303 admin/options-init.php:347
+#: includes/integrations/elementor/widgets/woo-carousel.php:223
+msgid "No"
+msgstr ""
+
+#: admin/options-init.php:133
+msgid "Right Menu Text"
+msgstr ""
+
+#: admin/options-init.php:147
+msgid "Theme Colors"
+msgstr ""
+
+#: admin/options-init.php:155
+msgid "General Theme Colors"
+msgstr ""
+
+#: admin/options-init.php:162
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/options-init.php:165
+msgid "Theme Text Body Color Manage from the Redux Controller"
+msgstr ""
+
+#: admin/options-init.php:171
+msgid "Page Background Color"
+msgstr ""
+
+#: admin/options-init.php:172
+msgid "Pick a Page Background color for the theme"
+msgstr ""
+
+#: admin/options-init.php:181
+msgid "Breadcums Background Color"
+msgstr ""
+
+#: admin/options-init.php:182
+msgid "Pick a Breadcums background color for the theme"
+msgstr ""
+
+#: admin/options-init.php:193
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/options-init.php:194
+msgid "Pick a Footer background color for the theme"
+msgstr ""
+
+#: admin/options-init.php:202
+#: includes/integrations/elementor/widgets/event-tab-content.php:396
+#: includes/integrations/elementor/widgets/event-tabs.php:361
+#: includes/integrations/elementor/widgets/title-bar.php:166
+msgid "Color"
+msgstr ""
+
+#: admin/options-init.php:203 admin/options-init.php:217
+#: admin/options-init.php:229
+msgid "Pick a background color."
+msgstr ""
+
+#: admin/options-init.php:216
+msgid "Color Blue"
+msgstr ""
+
+#: admin/options-init.php:228
+msgid "Color Black"
+msgstr ""
+
+#: admin/options-init.php:245
+msgid "Theme Footer"
+msgstr ""
+
+#: admin/options-init.php:253
+msgid "Footer Text"
+msgstr ""
+
+#: admin/options-init.php:280
+msgid "Footer Content"
+msgstr ""
+
+#: admin/options-init.php:293
+msgid "Copyright"
+msgstr ""
+
+#: admin/options-init.php:309
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/options-init.php:327
+msgid "Copyright Textarea"
+msgstr ""
+
+#: admin/options-init.php:337
+msgid "Social Media"
+msgstr ""
+
+#: admin/options-init.php:352
+msgid "Social Media Links"
+msgstr ""
+
+#: admin/options-init.php:356 admin/options-init.php:372
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/options-init.php:357 admin/options-init.php:373
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/options-init.php:358 admin/options-init.php:374
+msgid "LinkedIn URL"
+msgstr ""
+
+#: admin/options-init.php:359 admin/options-init.php:375
+msgid "Google+ URL"
+msgstr ""
+
+#: admin/options-init.php:360 admin/options-init.php:376
+msgid "Instagram URL"
+msgstr ""
+
+#: admin/options-init.php:361 admin/options-init.php:377
+msgid "Github URL"
+msgstr ""
+
+#: admin/options-init.php:362 admin/options-init.php:378
+msgid "VK URL"
+msgstr ""
+
+#: admin/options-init.php:363 admin/options-init.php:379
+msgid "YouTube URL"
+msgstr ""
+
+#: admin/options-init.php:364 admin/options-init.php:380
+msgid "Pinterest URL"
+msgstr ""
+
+#: admin/options-init.php:365 admin/options-init.php:381
+msgid "Tumblr URL"
+msgstr ""
+
+#: admin/options-init.php:366 admin/options-init.php:382
+msgid "Dribbble URL"
+msgstr ""
+
+#: admin/options-init.php:367 admin/options-init.php:383
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/options-init.php:368 admin/options-init.php:384
+msgid "Flickr URL"
+msgstr ""
+
+#: admin/options-init.php:369 admin/options-init.php:385
+msgid "Yelp URL"
+msgstr ""
+
+#: admin/options-init.php:397
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options-init.php:404
+msgid "CSS Code"
+msgstr ""
+
+#: admin/options-init.php:405
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: admin/tgm/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#: admin/tgm/class-tgm-plugin-activation.php:920
+#: admin/tgm/class-tgm-plugin-activation.php:2626
+#: admin/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+#: admin/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1027
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1214
+#: admin/tgm/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: admin/tgm/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2414
+#: includes/integrations/elementor/widgets/price.php:146
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: admin/tgm/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: admin/tgm/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/tgm/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/tgm/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: admin/tgm/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/tgm/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/tgm/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: admin/tgm/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: admin/tgm/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:13
+msgid "Redux Framework"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:18
+msgid "Anywhere Elementor"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:23
+msgid "woocommerce"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:28
+msgid "Meta Box"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:33
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:43
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:48
+msgid "Recent Posts Widget With Thumbnails"
+msgstr ""
+
+#: admin/tgm/tgm-init.php:53
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: extra.php:77
+msgid "Your Name"
+msgstr ""
+
+#: extra.php:81
+msgid "your-real-email@example.com"
+msgstr ""
+
+#: extra.php:85
+msgid "http://your-site-name.com"
+msgstr ""
+
+#: extra.php:126
+msgid "Reply"
+msgstr ""
+
+#: extra.php:218
+msgid "Medium Width"
+msgstr ""
+
+#: extra.php:219
+msgid "Medium Height"
+msgstr ""
+
+#: extra.php:220
+msgid "Medium Something"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:13
+msgid "Zc > About"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:26
+#: includes/integrations/elementor/widgets/about2.php:50
+#: includes/integrations/elementor/widgets/contact-sections.php:50
+#: includes/integrations/elementor/widgets/video.php:51
+#: includes/integrations/elementor/widgets/video2.php:51
+msgid "Header Section"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:35
+#: includes/integrations/elementor/widgets/about2.php:74
+msgid "About Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:48
+#: includes/integrations/elementor/widgets/about2.php:87
+#: includes/integrations/elementor/widgets/contact-sections.php:61
+#: includes/integrations/elementor/widgets/our-team.php:75
+#: includes/integrations/elementor/widgets/progress-bar.php:86
+#: includes/integrations/elementor/widgets/testimonial.php:75
+#: includes/integrations/elementor/widgets/work-process.php:61
+msgid "Sub Heading"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:61
+#: includes/integrations/elementor/widgets/about2.php:100
+#: includes/integrations/elementor/widgets/blog.php:62
+#: includes/integrations/elementor/widgets/contact-sections.php:74
+#: includes/integrations/elementor/widgets/event-tabs.php:74
+#: includes/integrations/elementor/widgets/faq.php:63
+#: includes/integrations/elementor/widgets/header-slider.php:37
+#: includes/integrations/elementor/widgets/our-team.php:88
+#: includes/integrations/elementor/widgets/price.php:89
+#: includes/integrations/elementor/widgets/progress-bar.php:73
+#: includes/integrations/elementor/widgets/sponsors.php:89
+#: includes/integrations/elementor/widgets/testimonial.php:62
+#: includes/integrations/elementor/widgets/video.php:65
+#: includes/integrations/elementor/widgets/why-choose.php:63
+#: includes/integrations/elementor/widgets/work-process.php:73
+msgid "Heading"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:75
+#: includes/integrations/elementor/widgets/about2.php:114
+msgid "Sub Heading 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:87
+#: includes/integrations/elementor/widgets/about2.php:130
+#: includes/integrations/elementor/widgets/faq.php:117
+#: includes/integrations/elementor/widgets/features-box.php:145
+#: includes/integrations/elementor/widgets/header-slider.php:47
+#: includes/integrations/elementor/widgets/how-work.php:161
+#: includes/integrations/elementor/widgets/our-team.php:175
+#: includes/integrations/elementor/widgets/price.php:210
+#: includes/integrations/elementor/widgets/progress-bar.php:97
+#: includes/integrations/elementor/widgets/services-parallax.php:164
+#: includes/integrations/elementor/widgets/services2.php:164
+#: includes/integrations/elementor/widgets/testimonial.php:167
+#: includes/integrations/elementor/widgets/video.php:82
+#: includes/integrations/elementor/widgets/video2.php:87
+#: includes/integrations/elementor/widgets/why-choose.php:92
+#: includes/integrations/elementor/widgets/work-process.php:157
+msgid "Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:98
+#: includes/integrations/elementor/widgets/features-box.php:164
+#: includes/integrations/elementor/widgets/header.php:117
+#: includes/integrations/elementor/widgets/header.php:135
+#: includes/integrations/elementor/widgets/services-parallax.php:183
+#: includes/integrations/elementor/widgets/video2.php:115
+#: includes/integrations/elementor/widgets/why-choose.php:106
+msgid "Button Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:111
+#: includes/integrations/elementor/widgets/header-slider.php:57
+#: includes/integrations/elementor/widgets/header.php:126
+#: includes/integrations/elementor/widgets/header.php:144
+#: includes/integrations/elementor/widgets/services-parallax.php:192
+#: includes/integrations/elementor/widgets/why-choose.php:119
+msgid "Button URL"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about.php:124
+#: includes/integrations/elementor/widgets/progress-bar.php:129
+#: includes/integrations/elementor/widgets/video.php:109
+#: includes/integrations/elementor/widgets/why-choose.php:132
+msgid "Background Images"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:25
+msgid "Zc > About 02"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:60
+#: includes/integrations/elementor/widgets/blog.php:34
+#: includes/integrations/elementor/widgets/event-tabs.php:46
+#: includes/integrations/elementor/widgets/features-box.php:61
+#: includes/integrations/elementor/widgets/our-team.php:61
+#: includes/integrations/elementor/widgets/price.php:61
+#: includes/integrations/elementor/widgets/services2.php:61
+#: includes/integrations/elementor/widgets/sponsors.php:61
+msgid "Paroller Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:145
+#: includes/integrations/elementor/widgets/contact-sections.php:93
+msgid "Feature Box"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:157
+#: includes/integrations/elementor/widgets/contact-sections.php:105
+msgid "Feature Icon"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:170
+#: includes/integrations/elementor/widgets/contact-sections.php:118
+msgid " Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:180
+#: includes/integrations/elementor/widgets/contact-sections.php:128
+#: includes/integrations/elementor/widgets/event-tab-content.php:149
+msgid "Content Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/about2.php:190
+#: includes/integrations/elementor/widgets/contact-sections.php:138
+msgid "Icon Class"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:13
+msgid "Zc > Blog Feed"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:25
+msgid "Blog Feed"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:48
+#: includes/integrations/elementor/widgets/event-tabs.php:60
+#: includes/integrations/elementor/widgets/price.php:75
+#: includes/integrations/elementor/widgets/services2.php:70
+#: includes/integrations/elementor/widgets/sponsors.php:75
+#: includes/integrations/elementor/widgets/title-bar.php:158
+#: includes/integrations/elementor/widgets/video2.php:60
+#: includes/integrations/elementor/widgets/woo-carousel.php:66
+#: includes/integrations/elementor/widgets/woo-carousel2.php:87
+msgid "Sub Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:74
+#: includes/integrations/elementor/widgets/event.php:44
+#: includes/integrations/elementor/widgets/wc-product.php:45
+msgid "Number of items to show"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:83
+#: includes/integrations/elementor/widgets/event.php:53
+#: includes/integrations/elementor/widgets/wc-product.php:54
+msgid "Filter by Categories"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/blog.php:96
+#: includes/integrations/elementor/widgets/event.php:66
+#: includes/integrations/elementor/widgets/wc-product.php:67
+msgid "Filter by Post."
+msgstr ""
+
+#: includes/integrations/elementor/widgets/contact-sections.php:25
+msgid "Zc > Contact"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:14
+msgid "<strong>Zc</strong> > Event Tabs Content"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:36
+#: includes/integrations/elementor/widgets/event-tabs.php:36
+msgid "event tabs"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:46
+#: includes/integrations/elementor/widgets/event-tabs.php:101
+#: includes/integrations/elementor/widgets/faq.php:107
+#: includes/integrations/elementor/widgets/features-box.php:78
+#: includes/integrations/elementor/widgets/how-work.php:65
+#: includes/integrations/elementor/widgets/our-team.php:132
+#: includes/integrations/elementor/widgets/services-parallax.php:65
+#: includes/integrations/elementor/widgets/services2.php:89
+#: includes/integrations/elementor/widgets/testimonial.php:102
+#: includes/integrations/elementor/widgets/work-process.php:114
+msgid "Repeator Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:56
+#: includes/integrations/elementor/widgets/image-box.php:99
+#: includes/integrations/elementor/widgets/price.php:116
+#: includes/integrations/elementor/widgets/sponsors.php:142
+msgid "media images"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:67
+msgid "Event Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:81
+msgid "Speaker Name"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:91
+msgid "Speaker Positions"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:101
+msgid "Coffee Icon Text "
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:111
+msgid "Video Icon Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:121
+msgid "Time"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:131
+msgid "Locations Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:140
+msgid "Icon Event"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:160
+msgid "Buy Ticket Button"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:169
+msgid "Read More Button"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:195
+#: includes/integrations/elementor/widgets/event-tabs.php:160
+msgid "Tabs"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:211
+#: includes/integrations/elementor/widgets/event-tabs.php:176
+msgid "Navigation Width"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:257
+#: includes/integrations/elementor/widgets/event-tabs.php:222
+msgid "Border Width"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:297
+#: includes/integrations/elementor/widgets/event-tabs.php:262
+msgid "Border Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:323
+#: includes/integrations/elementor/widgets/event-tabs.php:288
+msgid "Primary Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:351
+#: includes/integrations/elementor/widgets/event-tabs.php:316
+msgid "Primary Hover"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tab-content.php:378
+#: includes/integrations/elementor/widgets/event-tabs.php:343
+#: includes/integrations/elementor/widgets/faq.php:127
+#: includes/integrations/elementor/widgets/features-box.php:155
+#: includes/integrations/elementor/widgets/how-work.php:171
+#: includes/integrations/elementor/widgets/our-team.php:215
+#: includes/integrations/elementor/widgets/services-parallax.php:174
+#: includes/integrations/elementor/widgets/services2.php:174
+#: includes/integrations/elementor/widgets/testimonial.php:188
+#: includes/integrations/elementor/widgets/work-process.php:167
+msgid "Content"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tabs.php:14
+msgid "<strong>Zc</strong> > Event Tabs"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tabs.php:87
+msgid "More Button"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tabs.php:111
+msgid "Tab Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tabs.php:123
+msgid "Event Date"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event-tabs.php:133
+msgid "Event text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event.php:13
+msgid "Zc > event Feed"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event.php:25
+msgid "event Feed"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event.php:31
+#: includes/integrations/elementor/widgets/wc-product.php:31
+msgid "Template"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event.php:35
+#: includes/integrations/elementor/widgets/wc-product.php:35
+msgid "Two Columns"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/event.php:36
+#: includes/integrations/elementor/widgets/wc-product.php:36
+msgid "Three Columns"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/faq.php:25
+msgid "Zc > Faq"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/faq.php:51
+#: includes/integrations/elementor/widgets/why-choose.php:51
+#: includes/integrations/elementor/widgets/woo-carousel2.php:51
+msgid "why_choose Section"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/faq.php:77
+#: includes/integrations/elementor/widgets/why-choose.php:77
+msgid "Heading 02"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/faq.php:93
+msgid "Images"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:25
+msgid "Zc >  Features Box"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:51
+#: includes/integrations/elementor/widgets/how-work.php:51
+#: includes/integrations/elementor/widgets/our-team.php:51
+#: includes/integrations/elementor/widgets/services-parallax.php:51
+#: includes/integrations/elementor/widgets/services2.php:51
+#: includes/integrations/elementor/widgets/testimonial.php:51
+#: includes/integrations/elementor/widgets/work-process.php:51
+msgid "Features"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:87
+#: includes/integrations/elementor/widgets/how-work.php:74
+#: includes/integrations/elementor/widgets/services-parallax.php:74
+#: includes/integrations/elementor/widgets/services2.php:98
+#: includes/integrations/elementor/widgets/testimonial.php:111
+msgid "Column"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:95
+#: includes/integrations/elementor/widgets/how-work.php:82
+#: includes/integrations/elementor/widgets/services-parallax.php:82
+#: includes/integrations/elementor/widgets/services2.php:106
+#: includes/integrations/elementor/widgets/testimonial.php:119
+msgid "3 column"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:97
+#: includes/integrations/elementor/widgets/how-work.php:84
+#: includes/integrations/elementor/widgets/services-parallax.php:84
+#: includes/integrations/elementor/widgets/services2.php:108
+#: includes/integrations/elementor/widgets/testimonial.php:121
+msgid "4 column"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:99
+#: includes/integrations/elementor/widgets/how-work.php:86
+#: includes/integrations/elementor/widgets/services-parallax.php:86
+#: includes/integrations/elementor/widgets/services2.php:110
+#: includes/integrations/elementor/widgets/testimonial.php:123
+msgid "6 column"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:113
+#: includes/integrations/elementor/widgets/header.php:36
+#: includes/integrations/elementor/widgets/how-work.php:129
+#: includes/integrations/elementor/widgets/our-team.php:108
+#: includes/integrations/elementor/widgets/our-team.php:143
+#: includes/integrations/elementor/widgets/services-parallax.php:115
+#: includes/integrations/elementor/widgets/work-process.php:125
+msgid "Icon"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:126
+#: includes/integrations/elementor/widgets/how-work.php:142
+#: includes/integrations/elementor/widgets/our-team.php:156
+#: includes/integrations/elementor/widgets/services-parallax.php:128
+#: includes/integrations/elementor/widgets/work-process.php:138
+msgid "Icon Switcher"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:132
+#: includes/integrations/elementor/widgets/how-work.php:116
+#: includes/integrations/elementor/widgets/how-work.php:148
+#: includes/integrations/elementor/widgets/image-box.php:123
+#: includes/integrations/elementor/widgets/image-box.php:165
+#: includes/integrations/elementor/widgets/our-team.php:162
+#: includes/integrations/elementor/widgets/services-parallax.php:134
+#: includes/integrations/elementor/widgets/services2.php:142
+#: includes/integrations/elementor/widgets/testimonial.php:153
+#: includes/integrations/elementor/widgets/work-process.php:144
+msgid "Show"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:134
+#: includes/integrations/elementor/widgets/how-work.php:118
+#: includes/integrations/elementor/widgets/how-work.php:150
+#: includes/integrations/elementor/widgets/image-box.php:125
+#: includes/integrations/elementor/widgets/image-box.php:167
+#: includes/integrations/elementor/widgets/our-team.php:164
+#: includes/integrations/elementor/widgets/services-parallax.php:136
+#: includes/integrations/elementor/widgets/services2.php:144
+#: includes/integrations/elementor/widgets/testimonial.php:155
+#: includes/integrations/elementor/widgets/work-process.php:146
+msgid "Hide"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/features-box.php:173
+#: includes/integrations/elementor/widgets/video2.php:129
+msgid "Button Link"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:13
+msgid "Zc > Header Slider"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:25
+msgid " header-Slider"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:32
+msgid " header Slider"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:42
+#: includes/integrations/elementor/widgets/image-box.php:51
+msgid "Image"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:52
+msgid "Button Text1"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:62
+msgid "Button Text 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header-slider.php:67
+msgid "Button URL 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:9
+msgid "Zc >  Header"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:18
+msgid "Header"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:24
+#: includes/integrations/elementor/widgets/title-bar.php:34
+msgid "Choose Style"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:28
+msgid "Header Style 1"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:29
+msgid "Header Style 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:30
+msgid "Header Style 3"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:45
+msgid "Header Images"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:54
+msgid "Header Background Images"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:63
+#: includes/integrations/elementor/widgets/header.php:67
+msgid "List"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:66
+msgid "List Products"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:72
+#: includes/integrations/elementor/widgets/title-bar.php:56
+#: includes/integrations/elementor/widgets/woo-carousel.php:56
+#: includes/integrations/elementor/widgets/woo-carousel2.php:77
+msgid "Heading Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:75
+#: includes/integrations/elementor/widgets/title-bar.php:50
+#: includes/integrations/elementor/widgets/title-bar.php:59
+msgid "Featured Products"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:76
+#: includes/integrations/elementor/widgets/title-bar.php:60
+msgid "Featured"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:81
+#: includes/integrations/elementor/widgets/title-bar.php:69
+msgid "Heading Sub Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:84
+#: includes/integrations/elementor/widgets/header.php:96
+#: includes/integrations/elementor/widgets/header.php:108
+msgid "eventes Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:85
+#: includes/integrations/elementor/widgets/header.php:97
+#: includes/integrations/elementor/widgets/header.php:109
+#: includes/integrations/elementor/widgets/title-bar.php:73
+#: includes/integrations/elementor/widgets/title-bar.php:86
+msgid "eventes"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:93
+#: includes/integrations/elementor/widgets/title-bar.php:82
+msgid "Description"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:105
+msgid "Counter Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:154
+msgid "Enter your shortcode"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:168
+#: includes/integrations/elementor/widgets/title-bar.php:98
+msgid "Alignment"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:172
+#: includes/integrations/elementor/widgets/title-bar.php:103
+msgid "Left"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:176
+#: includes/integrations/elementor/widgets/title-bar.php:107
+msgid "Center"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:180
+#: includes/integrations/elementor/widgets/title-bar.php:111
+msgid "Right"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/header.php:184
+#: includes/integrations/elementor/widgets/title-bar.php:115
+msgid "Justified"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/how-work.php:25
+msgid "Zc >  How It Work Box"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/how-work.php:100
+#: includes/integrations/elementor/widgets/testimonial.php:137
+msgid "features Image"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/how-work.php:110
+#: includes/integrations/elementor/widgets/testimonial.php:147
+msgid "features Image Switcher"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:25
+msgid "Zc > Image Box"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:61
+msgid "Shape"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:67
+msgid "phone"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:69
+msgid "tablet"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:117
+#: includes/integrations/elementor/widgets/image-box.php:159
+msgid "media images Switcher"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:141
+msgid "media images2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/image-box.php:183
+#: includes/integrations/elementor/widgets/title-bar.php:176
+msgid "Background"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:25
+msgid "Zc >  Our Team"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:100
+msgid "Social Networks"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:114
+msgid "URL"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:184
+#: includes/integrations/elementor/widgets/price.php:230
+#: includes/integrations/elementor/widgets/sponsors.php:156
+msgid "url"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:205
+msgid "Company"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/our-team.php:225
+msgid "Potions"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:25
+msgid "Zc > Price"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:51
+msgid "Price Section"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:104
+#: includes/integrations/elementor/widgets/sponsors.php:130
+msgid "Services Icon"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:128
+msgid "Which Plan"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:138
+msgid "Active Package"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:148
+msgid "D-Active"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:158
+msgid "Curreny Type"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:168
+msgid "Package"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:178
+msgid "Vat Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:188
+msgid "Progress No"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:198
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:220
+msgid "Price Button Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:264
+#: includes/integrations/elementor/widgets/price.php:274
+#: includes/integrations/elementor/widgets/services-parallax.php:150
+#: includes/integrations/elementor/widgets/sponsors.php:190
+#: includes/integrations/elementor/widgets/sponsors.php:200
+msgid "Text Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:293
+#: includes/integrations/elementor/widgets/sponsors.php:219
+msgid "Activ Text Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:313
+#: includes/integrations/elementor/widgets/sponsors.php:239
+msgid "Button"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:327
+#: includes/integrations/elementor/widgets/sponsors.php:253
+msgid "Button Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:347
+#: includes/integrations/elementor/widgets/sponsors.php:273
+msgid "Button Color Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:366
+#: includes/integrations/elementor/widgets/sponsors.php:292
+msgid "Button Color Hover"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/price.php:386
+#: includes/integrations/elementor/widgets/sponsors.php:312
+msgid "Button Color Text Hover"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:25
+msgid "Zc >  Progress Bar"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:51
+msgid "Progress-Bar Section"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:60
+msgid "Top Heading"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:105
+msgid "Counter 1"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:112
+msgid "Counter 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/progress-bar.php:119
+msgid "Counter 3"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services-parallax.php:25
+msgid "Zc >  Services parallax"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services-parallax.php:101
+msgid "Background Color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:25
+msgid "Zc >  Services 02"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:79
+#: includes/integrations/elementor/widgets/video2.php:69
+msgid "Heading Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:123
+msgid "Features Image"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:136
+msgid "Features Image Switcher"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:154
+msgid "Sub Text"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/services2.php:184
+#: post-meta-option/meta-box-config.php:36
+msgid "Link"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/sponsors.php:25
+msgid "Zc > sponsors"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/sponsors.php:51
+msgid "sponsors Section"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/sponsors.php:103
+msgid "Video Image"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/sponsors.php:117
+#: includes/integrations/elementor/widgets/video.php:96
+#: includes/integrations/elementor/widgets/video2.php:101
+msgid "Video Link"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/testimonial.php:25
+msgid "Zc >  Testimonial"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/testimonial.php:88
+msgid "Animaition Image"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/testimonial.php:177
+msgid "Dsc"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:13
+msgid "Zc > Title-Bar"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:27
+msgid "eventes Heading"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:38
+msgid "Title Style"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:39
+msgid "Title Style 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:40
+msgid "Title Style 3"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:41
+msgid "Title Style 4"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:47
+msgid "Paroller Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:51
+msgid "Event"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:72
+#: includes/integrations/elementor/widgets/title-bar.php:85
+msgid "Evente Collections"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:130
+msgid "Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:137
+#: includes/integrations/elementor/widgets/woo-carousel.php:152
+msgid "Title color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:197
+msgid "Description Title"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/title-bar.php:205
+msgid "color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/video.php:25
+msgid "Zc > Video"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/video2.php:25
+msgid "Zc > Video 02"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/video2.php:143
+msgid "Images 01"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/video2.php:157
+msgid "Images 02"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/wc-product.php:13
+msgid "<strong>Zc</strong> > Wc Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/wc-product.php:25
+msgid "Wc Product Feed"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/wc-product.php:37
+msgid "Four Columns"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/why-choose.php:25
+msgid "Zc > Why Choose"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:16
+msgid "eventes Product Carousel"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:32
+msgid "Product element"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:39
+#: includes/integrations/elementor/widgets/woo-carousel.php:146
+#: includes/integrations/elementor/widgets/woo-carousel2.php:58
+msgid "Style"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:43
+#: includes/integrations/elementor/widgets/woo-carousel2.php:62
+msgid "style 1"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:44
+#: includes/integrations/elementor/widgets/woo-carousel2.php:63
+msgid "style 2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:45
+#: includes/integrations/elementor/widgets/woo-carousel2.php:64
+msgid "style 3"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:46
+#: includes/integrations/elementor/widgets/woo-carousel2.php:65
+msgid "style 4"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:47
+#: includes/integrations/elementor/widgets/woo-carousel2.php:66
+msgid "style 5"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:59
+#: includes/integrations/elementor/widgets/woo-carousel.php:69
+#: includes/integrations/elementor/widgets/woo-carousel.php:119
+#: includes/integrations/elementor/widgets/woo-carousel2.php:80
+#: includes/integrations/elementor/widgets/woo-carousel2.php:90
+msgid "Recent Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:75
+#: includes/integrations/elementor/widgets/woo-carousel2.php:96
+msgid "Heading bottom padding"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:93
+#: includes/integrations/elementor/widgets/woo-carousel2.php:114
+msgid "Product count"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:95
+#: includes/integrations/elementor/widgets/woo-carousel.php:105
+#: includes/integrations/elementor/widgets/woo-carousel2.php:116
+#: includes/integrations/elementor/widgets/woo-carousel2.php:126
+msgid "3"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:103
+#: includes/integrations/elementor/widgets/woo-carousel2.php:124
+msgid "Product Per Column"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:115
+msgid "Product Type"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:120
+msgid "Featured Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:121
+msgid "Popular Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:122
+msgid "Sale Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:123
+msgid "Product"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:131
+msgid "Products"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:162
+msgid "countdown bg color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:175
+msgid "countdown text color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:189
+msgid "Title Typography"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:196
+msgid "Sub Title color"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:210
+msgid "Sub Title Typography"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel.php:220
+msgid "Navigation Icon Round"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/woo-carousel2.php:25
+msgid "Zc >Woo Carousel2"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/work-process.php:25
+msgid "Zc >  Work Process"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/work-process.php:85
+msgid "Image 01"
+msgstr ""
+
+#: includes/integrations/elementor/widgets/work-process.php:97
+msgid "Image 02"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:13
+msgid "Post Quote"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:20
+msgid "Quote"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:21
+msgid "Quote Text Add Here"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:29
+msgid "Post Link"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:37
+msgid "Link Add Here"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:45
+msgid "Post Gallery"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:52
+msgid "Gallery"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:75
+msgid "Post Video"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:82
+msgid "Video"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:83
+msgid "Youtube & Viemo Url Add Here"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:94
+msgid "Post Audio"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:101
+msgid "Audio"
+msgstr ""
+
+#: post-meta-option/meta-box-config.php:102
+msgid "Soundcloud Embed Ifram Add Here"
+msgstr ""
+
+#: sections/header/style1.php:22 sections/header/style1.php:27
+#: sections/header/style1.php:31 sections/header/style1.php:35
+#: sections/header/style3.php:17 sections/header/style3.php:22
+#: sections/header/style3.php:26 sections/header/style3.php:30
+msgid "0"
+msgstr ""
+
+#: sections/header/style1.php:23 sections/header/style3.php:18
+msgid "Days"
+msgstr ""
+
+#: sections/header/style1.php:28 sections/header/style3.php:23
+msgid "Hours"
+msgstr ""
+
+#: sections/header/style1.php:32 sections/header/style3.php:27
+msgid "Minutes"
+msgstr ""
+
+#: sections/header/style1.php:36 sections/header/style3.php:31
+msgid "Seconds"
+msgstr ""
+
+#. translators: %s: post date.
+
+#: template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+
+#: template-tags.php:46
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+
+#: template-tags.php:66
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+
+#: template-tags.php:73
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: template-tags.php:83
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+
+#: template-tags.php:100
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: woocommerce.php:195
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+
+#: woocommerce.php:197
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
